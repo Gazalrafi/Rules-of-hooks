@@ -54,7 +54,7 @@ const Login = (props) => {
 //   emailIsValid && passwordIsValid && enteredCollege.trim().length>1
 // );
 //   },500);
-
+//
 //   return ()=>{
 //     console.log('CLEANUP');
 //     clearTimeout(identifier);
